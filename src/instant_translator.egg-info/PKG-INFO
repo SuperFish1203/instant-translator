@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: instant-translator
+Version: 0.1.0
+Summary: Windows instant translator with global hotkey and configurable translation providers.
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: PySide6<7,>=6.8
+Requires-Dist: requests<3,>=2.32
+Requires-Dist: pywin32>=308; platform_system == "Windows"
+Provides-Extra: dev
+Requires-Dist: pytest<9,>=8.3; extra == "dev"
+Requires-Dist: pytest-qt<5,>=4.4; extra == "dev"
+Requires-Dist: requests-mock<2,>=1.12; extra == "dev"
+Requires-Dist: PyInstaller<7,>=6.11; extra == "dev"
+
+# Instant Translator
+
+Windows 即时翻译桌面工具。
