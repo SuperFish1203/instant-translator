@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/instant_translator/__init__.py
+src/instant_translator.egg-info/PKG-INFO
+src/instant_translator.egg-info/SOURCES.txt
+src/instant_translator.egg-info/dependency_links.txt
+src/instant_translator.egg-info/requires.txt
+src/instant_translator.egg-info/top_level.txt
