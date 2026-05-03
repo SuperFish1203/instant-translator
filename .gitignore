@@ -1,0 +1,15 @@
+.venv/
+.pytest_cache/
+__pycache__/
+*.pyc
+*.egg-info/
+
+build/
+dist/
+
+*.log
+InstantTranslator.spec
+
+rust-sanity-check/
+rustup-init.exe
+rustup-install.log
